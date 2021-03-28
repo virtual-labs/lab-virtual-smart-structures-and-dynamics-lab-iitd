@@ -1,0 +1,69 @@
+{
+  "broadArea": {
+    "name": "Civil Engineering",
+    "link": "https://www.vlab.co.in/broad-area-civil-engineering"
+  },
+  "lab": "Virtual Smart Structures and Dynamics Laboratory",
+  "phase": 2,
+  "deployLab": true,
+  "collegeName": "IITD",
+  "baseUrl": "vssd-iitd.vlabs.ac.in",
+  "introduction": "Welcome to Virtual Smart Structures and Dynamics Laboratory (VSSDL). This laboratory provides platform to inquisitive students to perform basic experiments related to smart structures and structural dynamics, either remotely or through simulation.<br/><br/>A smart structure is defined as a structural system having built-in or intrinsic sensors, actuators and control mechanism whereby it is capable of sensing a stimulus, responding to it in a predetermined manner and extent, in a short time, and reverting to its original state as soon as the stimulus is removed. In the present context, the structures have been instrumented with smart piezoelectric material based sensors, which inform the status (here dynamic characteristics) to the user.<br/><br/>Lack of resources has always been a hurdle to perform experiments, especially when they involve sophisticated and expensive instruments. With the present day internet and computer technologies the above limitations can no more hamper students and researchers in enhancing their skills and knowledge.",
+  "experiments": [
+    {
+      "name": "Modes of Vibrations of Vibration of Simply Supported Beam",
+      "short-name": "simply-supported-beam",
+      "repo": "https://github.com/virtual-labs/exp-simply-supported-beam-iitd",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Modes of vibration of simply supported plate",
+      "short-name": "simply-supported-plate",
+      "repo": "https://github.com/virtual-labs/exp-simply-supported-plate-iitd",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Damage Detection and Qualitative Quantification Using Electro-Mechanical Impedence (EMI) Technique",
+      "short-name": "damage-detection",
+      "repo": "https://github.com/virtual-labs/exp-damage-detection-iitd",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Dynamics of Bandra Worli sea link brigde",
+      "short-name": "sea-link-brigde",
+      "repo": "https://github.com/virtual-labs/exp-sea-link-brigde-iitd",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Piezoelectric Energy Harvesting and Structural Health Monitoring using Thin Surface Bonded PZT Patches",
+      "short-name": "thin-surface-bonded",
+      "repo": "https://github.com/virtual-labs/exp-thin-surface-bonded-iitd",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Effect of Bond in Piezo Electro-mechanical admittance signature",
+      "short-name": "electro-mechanical-admittance",
+      "repo": "https://github.com/virtual-labs/exp-electro-mechanical-admittance-iitd",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Non-destructive evaluation",
+      "short-name": "corrosion-rate",
+      "repo": "https://github.com/virtual-labs/exp-corrosion-rate-iitd",
+      "tag": "v1.0.0",
+      "deploy": true
+    }
+  ],
+  "targetAudience": { "UG": ["Under Graduate students of B.E./B.Tech. - (Civil Engineering)"], "PG": ["Post Graduate students of M.E./M.Tech. - (Civil Engineering)","Research Scholars of Civil Engineering faculty of various institutes and universities"] },
+  "objective": "Virtual Smart Structures and Dynamics is one of the important courses in Civil Engineering. In this laboratory, students will have the opportunity:",
+  "courseAlignment": {
+    "description": "The syllabi of this lab aligns to the following universities in India.",
+    "universities": ["IITD"]
+  },
+}
