@@ -61,7 +61,7 @@
     }
   ],
   "targetAudience": { "UG": ["Under Graduate students of B.E./B.Tech. - (Civil Engineering)"], "PG": ["Post Graduate students of M.E./M.Tech. - (Civil Engineering)","Research Scholars of Civil Engineering faculty of various institutes and universities"] },
-  "objective": "Virtual Smart Structures and Dynamics is one of the important courses in Civil Engineering. In this laboratory, students will have the opportunity:",
+  "objective": "Virtual Smart Structures and Dynamics is one of the important courses in Civil Engineering. In this laboratory, students will have the opportunity:<br/>to recall the fundamentals of Virtual Smart Structures and Dynamics <br/>to understand the theory behind an experimental procedure<br/>to apply the concepts learned to perform experiments<br/>to analyze and present the output from the experiments",
   "courseAlignment": {
     "description": "The syllabi of this lab aligns to the following universities in India.",
     "universities": ["IITD"]
