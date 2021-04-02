@@ -100,8 +100,8 @@
     "description": "The syllabi of this lab aligns to the following universities in India.",
     "universities": ["IITD"]
   },
-  "exp_name": "Non-destructive evaluation",
-  "exp_short_name": "corrosion-rate",
+  "exp_name": "Photogrammetry for Displacement Measurement",
+  "exp_short_name": "photogrammetry",
   "production": true,
   "current_item": {
     "item": "feedback",
@@ -152,5 +152,5 @@
     },
     { "item": "feedback", "target": "feedback.html", "label": "Feedback" }
   ],
-  "version": "v1.0.3"
+  "version": "v1.0.3\n"
 }
