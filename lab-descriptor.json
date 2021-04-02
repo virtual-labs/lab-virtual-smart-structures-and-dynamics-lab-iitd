@@ -58,12 +58,99 @@
       "repo": "https://github.com/virtual-labs/exp-corrosion-rate-iitd",
       "tag": "v1.0.0",
       "deploy": true
+    },
+    {
+      "name": "Vibration Characteristics of Aluminum Cantilever Beam Using Piezoelectric Sensors",
+      "short-name": "piezoelectric-sensors",
+      "repo": "https://github.com/virtual-labs/exp-piezoelectric-sensors-iitd",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Identification of High Frequency Axial Modes of Beam in 'Free-Free' Condition Using Electro- mechanical Impedance(EMI) Technique",
+      "short-name": "electro-mechanical-impedance",
+      "repo": "https://github.com/virtual-labs/exp-electro-mechanical-impedance-iitd",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Forced Excitation of Steel Beam Using Portable Shaker",
+      "short-name": "portable-shaker",
+      "repo": "https://github.com/virtual-labs/exp-portable-shaker-iitd",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Photogrammetry for Displacement Measurement",
+      "short-name": "photogrammetry",
+      "repo": "https://github.com/virtual-labs/exp-photogrammetry-iitd",
+      "tag": "v1.0.0",
+      "deploy": true
     }
   ],
-  "targetAudience": { "UG": ["Under Graduate students of B.E./B.Tech. - (Civil Engineering)"], "PG": ["Post Graduate students of M.E./M.Tech. - (Civil Engineering)","Research Scholars of Civil Engineering faculty of various institutes and universities"] },
-  "objective": "Virtual Smart Structures and Dynamics is one of the important courses in Civil Engineering. In this laboratory, students will have the opportunity:<br/>to recall the fundamentals of Virtual Smart Structures and Dynamics <br/>to understand the theory behind an experimental procedure<br/>to apply the concepts learned to perform experiments<br/>to analyze and present the output from the experiments",
+  "targetAudience": {
+    "UG": ["Under Graduate students of B.E./B.Tech. - (Civil Engineering)"],
+    "PG": [
+      "Post Graduate students of M.E./M.Tech. - (Civil Engineering)",
+      "Research Scholars of Civil Engineering faculty of various institutes and universities"
+    ]
+  },
+  "objective": "Virtual Smart Structures and Dynamics is one of the important courses in Civil Engineering. In this laboratory, students will have the opportunity:<br/>- to recall the fundamentals of Virtual Smart Structures and Dynamics <br/>- to understand the theory behind an experimental procedure<br/>- to apply the concepts learned to perform experiments<br/>- to analyze and present the output from the experiments",
   "courseAlignment": {
     "description": "The syllabi of this lab aligns to the following universities in India.",
     "universities": ["IITD"]
   },
+  "exp_name": "Non-destructive evaluation",
+  "exp_short_name": "corrosion-rate",
+  "production": true,
+  "current_item": {
+    "item": "feedback",
+    "target": "feedback.html",
+    "label": "Feedback"
+  },
+  "menu": [
+    {
+      "item": "aim",
+      "target": "index.html",
+      "source": "aim.md",
+      "label": "Aim"
+    },
+    {
+      "item": "theory",
+      "target": "theory.html",
+      "source": "theory.md",
+      "label": "Theory"
+    },
+    {
+      "item": "pretest",
+      "target": "pretest.html",
+      "source": "pretest.js",
+      "label": "Pre Test"
+    },
+    {
+      "item": "procedure",
+      "target": "procedure.html",
+      "source": "procedure.md",
+      "label": "Procedure"
+    },
+    {
+      "item": "simulation",
+      "target": "simulation.html",
+      "label": "Simulation"
+    },
+    {
+      "item": "posttest",
+      "target": "posttest.html",
+      "source": "posttest.js",
+      "label": "Post Test"
+    },
+    {
+      "item": "references",
+      "target": "references.html",
+      "source": "references.md",
+      "label": "References"
+    },
+    { "item": "feedback", "target": "feedback.html", "label": "Feedback" }
+  ],
+  "version": "v1.0.3"
 }
