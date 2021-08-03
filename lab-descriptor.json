@@ -46,7 +46,7 @@
       "deploy": true
     },
     {
-      "name": "Modes of vibration of simply supported plate",
+      "name": "Modes of Vibration of Simply Supported Plate",
       "short-name": "simply-supported-plate",
       "repo": "https://github.com/virtual-labs/exp-simply-supported-plate-iitd",
       "tag": "v1.0.1",
@@ -60,7 +60,7 @@
       "deploy": true
     },
     {
-      "name": "Dynamics of Bandra Worli sea link brigde",
+      "name": "Dynamics of Bandra Worli Sea Link Bridge",
       "short-name": "sea-link-brigde",
       "repo": "https://github.com/virtual-labs/exp-sea-link-brigde-iitd",
       "tag": "v1.0.1",
