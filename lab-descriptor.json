@@ -10,8 +10,36 @@
   "baseUrl": "vssd-iitd.vlabs.ac.in",
   "introduction": "Welcome to Virtual Smart Structures and Dynamics Laboratory (VSSDL). This laboratory provides platform to inquisitive students to perform basic experiments related to smart structures and structural dynamics, either remotely or through simulation.<br/><br/>A smart structure is defined as a structural system having built-in or intrinsic sensors, actuators and control mechanism whereby it is capable of sensing a stimulus, responding to it in a predetermined manner and extent, in a short time, and reverting to its original state as soon as the stimulus is removed. In the present context, the structures have been instrumented with smart piezoelectric material based sensors, which inform the status (here dynamic characteristics) to the user.<br/><br/>Lack of resources has always been a hurdle to perform experiments, especially when they involve sophisticated and expensive instruments. With the present day internet and computer technologies the above limitations can no more hamper students and researchers in enhancing their skills and knowledge.",
   "experiments": [
+     {
+      "name": "Vibration Characteristics of Aluminum Cantilever Beam Using Piezoelectric Sensors",
+      "short-name": "piezoelectric-sensors",
+      "repo": "https://github.com/virtual-labs/exp-piezoelectric-sensors-iitd",
+      "tag": "v1.0.1",
+      "deploy": true
+    },
     {
-      "name": "Modes of Vibrations of Vibration of Simply Supported Beam",
+      "name": "Identification of High Frequency Axial Modes of Beam in 'Free-Free' Condition Using Electro-Mechanical Impedance (EMI) Technique",
+      "short-name": "electro-mechanical-impedance",
+      "repo": "https://github.com/virtual-labs/exp-electro-mechanical-impedance-iitd",
+      "tag": "v1.0.1",
+      "deploy": true
+    },
+    {
+      "name": "Forced Excitation of Steel Beam Using Portable Shaker",
+      "short-name": "portable-shaker",
+      "repo": "https://github.com/virtual-labs/exp-portable-shaker-iitd",
+      "tag": "v1.0.1",
+      "deploy": true
+    },
+    {
+      "name": "Photogrammetry for Displacement Measurement",
+      "short-name": "photogrammetry",
+      "repo": "https://github.com/virtual-labs/exp-photogrammetry-iitd",
+      "tag": "v1.0.1",
+      "deploy": true
+    }
+    {
+      "name": "Modes of Vibrations of Simply Supported Beam Under Flexure",
       "short-name": "simply-supported-beam",
       "repo": "https://github.com/virtual-labs/exp-simply-supported-beam-iitd",
       "tag": "v1.0.1",
@@ -46,47 +74,19 @@
       "deploy": true
     },
     {
-      "name": "Effect of Bond in Piezo Electro-mechanical admittance signature",
+      "name": "Shear Lag Effect in Electro-Mechanical Impedance (EMI) Technique",
       "short-name": "electro-mechanical-admittance",
       "repo": "https://github.com/virtual-labs/exp-electro-mechanical-admittance-iitd",
       "tag": "v1.0.1",
       "deploy": true
     },
     {
-      "name": "Non-destructive evaluation",
+      "name": "Rebar Corrosion Detection and Assessment Using Electro-Mechanical Impedance (EMI) Technique",
       "short-name": "corrosion-rate",
       "repo": "https://github.com/virtual-labs/exp-corrosion-rate-iitd",
       "tag": "v1.0.1",
       "deploy": true
     },
-    {
-      "name": "Vibration Characteristics of Aluminum Cantilever Beam Using Piezoelectric Sensors",
-      "short-name": "piezoelectric-sensors",
-      "repo": "https://github.com/virtual-labs/exp-piezoelectric-sensors-iitd",
-      "tag": "v1.0.1",
-      "deploy": true
-    },
-    {
-      "name": "Identification of High Frequency Axial Modes of Beam in 'Free-Free' Condition Using Electro- mechanical Impedance(EMI) Technique",
-      "short-name": "electro-mechanical-impedance",
-      "repo": "https://github.com/virtual-labs/exp-electro-mechanical-impedance-iitd",
-      "tag": "v1.0.1",
-      "deploy": true
-    },
-    {
-      "name": "Forced Excitation of Steel Beam Using Portable Shaker",
-      "short-name": "portable-shaker",
-      "repo": "https://github.com/virtual-labs/exp-portable-shaker-iitd",
-      "tag": "v1.0.1",
-      "deploy": true
-    },
-    {
-      "name": "Photogrammetry for Displacement Measurement",
-      "short-name": "photogrammetry",
-      "repo": "https://github.com/virtual-labs/exp-photogrammetry-iitd",
-      "tag": "v1.0.1",
-      "deploy": true
-    }
   ],
   "targetAudience": {
     "UG": ["Under Graduate students of B.E./B.Tech. - (Civil Engineering)"],
