@@ -100,7 +100,7 @@
     "description": "The syllabi of this lab aligns to the following universities in India.",
     "universities": ["IITD"]
   },
-  "exp_name": "Rebar Corrosion Detection and Assessment Using Electro-Mechanical Impedance (EMI) Technique",
+  "exp_name": "Rebar Corrosion Detection and Assessment Using Electro-Mechanical Impedance (EMI) Technique (Under Refinement)",
   "exp_short_name": "corrosion-rate",
   "production": true,
   "current_item": {
@@ -152,5 +152,5 @@
     },
     { "item": "feedback", "target": "feedback.html", "label": "Feedback" }
   ],
-  "version": "v1.3.0"
+  "version": "v1.4.0"
 }
