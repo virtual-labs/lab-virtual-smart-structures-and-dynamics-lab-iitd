@@ -4,6 +4,7 @@
     "link": "https://www.vlab.co.in/broad-area-civil-engineering"
   },
   "lab": "Virtual Smart Structures and Dynamics Laboratory",
+  "lab_display_name": "Virtual Smart Structures and Dynamics Laboratory",
   "phase": 2,
   "deployLab": true,
   "collegeName": "IITD",
@@ -39,49 +40,49 @@
       "deploy": true
     },
     {
-      "name": "Modes of Vibrations of Simply Supported Beam Under Flexure (Under Refinement)",
+      "name": "Modes of Vibrations of Simply Supported Beam Under Flexure",
       "short-name": "simply-supported-beam",
       "repo": "https://github.com/virtual-labs/exp-simply-supported-beam-iitd",
       "tag": "v1.0.1",
       "deploy": true
     },
     {
-      "name": "Modes of Vibration of Simply Supported Plate (Under Refinement)",
+      "name": "Modes of Vibration of Simply Supported Plate",
       "short-name": "simply-supported-plate",
       "repo": "https://github.com/virtual-labs/exp-simply-supported-plate-iitd",
       "tag": "v1.0.1",
       "deploy": true
     },
     {
-      "name": "Damage Detection and Qualitative Quantification Using Electro-Mechanical Impedence (EMI) Technique (Under Refinement)",
+      "name": "Damage Detection and Qualitative Quantification Using Electro-Mechanical Impedence (EMI) Technique",
       "short-name": "damage-detection",
       "repo": "https://github.com/virtual-labs/exp-damage-detection-iitd",
       "tag": "v1.0.1",
       "deploy": true
     },
     {
-      "name": "Dynamics of Bandra Worli Sea Link Bridge (Under Refinement)",
+      "name": "Dynamics of Bandra Worli Sea Link Bridge",
       "short-name": "sea-link-brigde",
       "repo": "https://github.com/virtual-labs/exp-sea-link-brigde-iitd",
       "tag": "v1.0.1",
       "deploy": true
     },
     {
-      "name": "Piezoelectric Energy Harvesting and Structural Health Monitoring using Thin Surface Bonded PZT Patches (Under Refinement)",
+      "name": "Piezoelectric Energy Harvesting and Structural Health Monitoring using Thin Surface Bonded PZT Patches",
       "short-name": "thin-surface-bonded",
       "repo": "https://github.com/virtual-labs/exp-thin-surface-bonded-iitd",
       "tag": "v1.0.1",
       "deploy": true
     },
     {
-      "name": "Shear Lag Effect in Electro-Mechanical Impedance (EMI) Technique (Under Refinement)",
+      "name": "Shear Lag Effect in Electro-Mechanical Impedance (EMI) Technique",
       "short-name": "electro-mechanical-admittance",
       "repo": "https://github.com/virtual-labs/exp-electro-mechanical-admittance-iitd",
       "tag": "v1.0.1",
       "deploy": true
     },
     {
-      "name": "Rebar Corrosion Detection and Assessment Using Electro-Mechanical Impedance (EMI) Technique (Under Refinement)",
+      "name": "Rebar Corrosion Detection and Assessment Using Electro-Mechanical Impedance (EMI) Technique",
       "short-name": "corrosion-rate",
       "repo": "https://github.com/virtual-labs/exp-corrosion-rate-iitd",
       "tag": "v1.0.1",
@@ -100,7 +101,7 @@
     "description": "The syllabi of this lab aligns to the following universities in India.",
     "universities": ["IITD"]
   },
-  "exp_name": "Rebar Corrosion Detection and Assessment Using Electro-Mechanical Impedance (EMI) Technique (Under Refinement)",
+  "exp_name": "Rebar Corrosion Detection and Assessment Using Electro-Mechanical Impedance (EMI) Technique",
   "exp_short_name": "corrosion-rate",
   "production": true,
   "current_item": {
