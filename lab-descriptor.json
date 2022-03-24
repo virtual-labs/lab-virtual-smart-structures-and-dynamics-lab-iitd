@@ -99,7 +99,12 @@
   "objective": "Smart Structures and Dynamics is one of the important courses in Civil Engineering. In this laboratory, students will have the opportunity:<br/>- to recall the fundamentals of Smart Structures and Dynamics <br/>- to understand the theory behind an experimental procedure<br/>- to apply the concepts learned to perform experiments<br/>- to analyze and present the output from the experiments",
   "courseAlignment": {
     "description": "The syllabi of this lab aligns to the following universities in India.",
-    "universities": ["Dr APJ Abdul Kalam University (AKTU) Lucknow","Maharshi Dayanand University (MDU), Rohtak","Kurukshetra University Kurukshetra (KUK)","Punjab Technical University (PTU) Kapurthala"]
+    "universities": [
+      "Dr APJ Abdul Kalam University (AKTU) Lucknow",
+      "Maharshi Dayanand University (MDU), Rohtak",
+      "Kurukshetra University Kurukshetra (KUK)",
+      "Punjab Technical University (PTU) Kapurthala"
+    ]
   },
   "exp_name": "Rebar Corrosion Detection and Assessment Using Electro-Mechanical Impedance (EMI) Technique (Under Refinement)",
   "exp_short_name": "corrosion-rate",
@@ -153,5 +158,5 @@
     },
     { "item": "feedback", "target": "feedback.html", "label": "Feedback" }
   ],
-  "version": "v1.10.0"
+  "version": "v1.11.0"
 }
