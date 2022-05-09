@@ -15,77 +15,77 @@
       "name": "Vibration Characteristics of Aluminum Cantilever Beam Using Piezoelectric Sensors",
       "short-name": "piezoelectric-sensors",
       "repo": "https://github.com/virtual-labs/exp-piezoelectric-sensors-iitd",
-      "tag": "v1.0.3",
+      "tag": "v1.0.4",
       "deploy": true
     },
     {
       "name": "Identification of High Frequency Axial Modes of Beam in 'Free-Free' Condition Using Electro-Mechanical Impedance (EMI) Technique",
       "short-name": "electro-mechanical-impedance",
       "repo": "https://github.com/virtual-labs/exp-electro-mechanical-impedance-iitd",
-      "tag": "v1.0.3",
+      "tag": "v1.0.4",
       "deploy": true
     },
     {
       "name": "Forced Excitation of Steel Beam Using Portable Shaker",
       "short-name": "portable-shaker",
       "repo": "https://github.com/virtual-labs/exp-portable-shaker-iitd",
-      "tag": "v1.0.3",
+      "tag": "v1.0.4",
       "deploy": true
     },
     {
       "name": "Photogrammetry for Displacement Measurement",
       "short-name": "photogrammetry",
       "repo": "https://github.com/virtual-labs/exp-photogrammetry-iitd",
-      "tag": "v1.0.3",
+      "tag": "v1.0.4",
       "deploy": true
     },
     {
       "name": "Modes of Vibrations of Simply Supported Beam Under Flexure",
       "short-name": "simply-supported-beam",
       "repo": "https://github.com/virtual-labs/exp-simply-supported-beam-iitd",
-      "tag": "v1.0.3",
+      "tag": "v1.0.4",
       "deploy": true
     },
     {
       "name": "Modes of Vibration of Simply Supported Plate",
       "short-name": "simply-supported-plate",
       "repo": "https://github.com/virtual-labs/exp-simply-supported-plate-iitd",
-      "tag": "v1.0.3",
+      "tag": "v1.0.4",
       "deploy": true
     },
     {
       "name": "Damage Detection and Qualitative Quantification Using Electro-Mechanical Impedence (EMI) Technique",
       "short-name": "damage-detection",
       "repo": "https://github.com/virtual-labs/exp-damage-detection-iitd",
-      "tag": "v1.0.3",
+      "tag": "v1.0.4",
       "deploy": true
     },
     {
       "name": "Dynamics of Bandra Worli Sea Link Bridge",
       "short-name": "sea-link-brigde",
       "repo": "https://github.com/virtual-labs/exp-sea-link-brigde-iitd",
-      "tag": "v1.0.3",
+      "tag": "v1.0.4",
       "deploy": true
     },
     {
       "name": "Piezoelectric Energy Harvesting and Structural Health Monitoring using Thin Surface Bonded PZT Patches",
       "short-name": "thin-surface-bonded",
       "repo": "https://github.com/virtual-labs/exp-thin-surface-bonded-iitd",
-      "tag": "v1.0.3",
+      "tag": "v1.0.4",
       "deploy": true
     },
     {
       "name": "Shear Lag Effect in Electro-Mechanical Impedance (EMI) Technique",
       "short-name": "electro-mechanical-admittance",
       "repo": "https://github.com/virtual-labs/exp-electro-mechanical-admittance-iitd",
-      "tag": "v1.0.3",
+      "tag": "v1.0.4",
       "deploy": true
     },
     {
       "name": "Rebar Corrosion Detection and Assessment Using Electro-Mechanical Impedance (EMI) Technique",
       "short-name": "corrosion-rate",
       "repo": "https://github.com/virtual-labs/exp-corrosion-rate-iitd",
-      "tag": "v1.0.3",
+      "tag": "v1.0.4",
       "deploy": true
     }
   ],
@@ -158,5 +158,5 @@
     },
     { "item": "feedback", "target": "feedback.html", "label": "Feedback" }
   ],
-  "version": "v1.14.0"
+  "version": "v1.15.0"
 }
