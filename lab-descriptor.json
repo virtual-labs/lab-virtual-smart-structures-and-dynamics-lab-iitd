@@ -29,7 +29,7 @@
       "name": "Forced Excitation of Steel Beam Using Portable Shaker",
       "short-name": "portable-shaker",
       "repo": "https://github.com/virtual-labs/exp-portable-shaker-iitd",
-      "tag": "v1.0.4",
+      "tag": "v1.0.5",
       "deploy": true
     },
     {
@@ -158,5 +158,5 @@
     },
     { "item": "feedback", "target": "feedback.html", "label": "Feedback" }
   ],
-  "version": "v1.15.0"
+  "version": "v1.16.0"
 }
